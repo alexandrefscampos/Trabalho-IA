@@ -14,7 +14,7 @@ pip3 install pygame
 pip3 install matplotlib
 ```
 
-Para rodar nosso projeto temos 3 principais funcionalidades, no arquivo `play.py`, que estarão comentadas e 
+Para rodar nosso projeto temos 3 principais funcionalidades, no arquivo `play.py`, que estarão comentadas.
 
 
 Caso queira jogar o 2048 propriamente dito:
